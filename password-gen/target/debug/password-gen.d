@@ -1,1 +1,0 @@
-/Users/hugomayo/Documents/projects/code/schizo_colab/python/password-generator/password-gen/target/debug/password-gen: /Users/hugomayo/Documents/projects/code/schizo_colab/python/password-generator/password-gen/src/main.rs
